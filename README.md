@@ -1,6 +1,6 @@
 # Iago Rosa de Oliveira
 
-<div>
+<div align="center">
   <a href="mailto:iagoimportantthings@gmail.com"><img width=5% height=5% loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/1df10280-36e3-44c4-b504-83359b542ec2"></a>
   <a href="https://www.linkedin.com/in/iago-rosa-de-oliveira/"><img width=5% height=5% loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/19733af4-2f3d-4eb2-9081-36165defea85"></a>
 </div>
