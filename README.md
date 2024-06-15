@@ -1,5 +1,9 @@
 # Iago Rosa de Oliveira
 
+<div>
+  <a href="mailto:iagoimportantthings@gmail.com"><img width=5% height=5% loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/1df10280-36e3-44c4-b504-83359b542ec2"></a>
+</div>
+
 - Eu tenho 23 anos, moro em São Paulo e atualmente faço Ciência da Computação na FEI.
 
 - Me identifico mais com a parte de back-end, porém estou aberto a todo tipo de aprendizado, já que adoro aprender coisas novas e enfrentar grandes desafios.
