@@ -1,5 +1,12 @@
-## Hi there 👋
+# Iago Rosa de Oliveira
 
+- Eu tenho 23 anos, moro em São Paulo e atualmente faço Ciência da Computação na FEI.
+
+- Me identifico mais com a parte de back-end, porém estou aberto a todo tipo de aprendizado, já que adoro aprender coisas novas e enfrentar grandes desafios.
+
+- Atualmente estou em busca de estágio para ganhar experiência na área e evoluir cada vez mais como programador e como pessoa.
+
+- Além da área de Ciência da Computação, também me interesso pela área financeira, mais especificamente por investimentos. Adoro ver vídeos sobre o assunto, ler sobre ele e botar em prática. Também gosto de jogos, animes, escutar diferentes tipos de música (mas com preferência por rock) e de esportes em geral.
 <!--
 **iagorosa28/iagorosa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
