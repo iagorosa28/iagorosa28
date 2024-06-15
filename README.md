@@ -60,6 +60,12 @@
   <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/35f4000f-3d2e-4d4d-9f14-8676a7d10e62" title="Firebase"/>
   Firebase
 </p>
+
+## Estatísticas:
+
+<div align="center">
+  <a href=">
+</div>
 <!--
 **iagorosa28/iagorosa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
