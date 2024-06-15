@@ -16,6 +16,50 @@
   <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/afb6339c-6879-4f64-956c-ef8189e4d70d" title="Python"/>
   Python
 </p>
+<p>
+  <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/3c1c20c5-94e2-4113-895e-e9bb80442a6a" title="HTML"/>
+  HTML
+</p>
+<p>
+  <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/416ee8a6-a01c-4532-a3e5-16b799a8aa2e" title="CSS"/>
+  CSS
+</p>
+<p>
+  <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/a0809b8a-e32c-4e3b-981b-e9091b9bf232" title="JavaScript"/>
+  JavaScript
+</p>
+<p>
+  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"/>
+  SQLite
+</p>
+<p>
+  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
+  C
+</p>
+<p>
+  <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/b17faa16-2ce5-4ab9-94e8-cd887f4d2eb9" title="Java"/>
+  Java
+</p>
+<p>
+  <img width=2% height=2% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"/>
+  PostgreSQL
+</p>
+<p>
+  <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/62a48335-5879-4313-bc29-4dfec510d6f1" title="C++"/>
+  C++
+</p>
+<p>
+  <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/bc0e797c-b2f9-4fad-807a-8d3d4cafab6d" title="Assembly"/>
+  Assembly
+</p>
+<p>
+  <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/b66f9c50-6ab9-41ac-892f-df40a95c5f2e" title="React"/>
+  React
+</p>
+<p>
+  <img width=2% height=2% src="https://github.com/iagorosa28/iagorosa28/assets/125699322/35f4000f-3d2e-4d4d-9f14-8676a7d10e62" title="Firebase"/>
+  Firebase
+</p>
 <!--
 **iagorosa28/iagorosa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
