@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/iago-rosa-de-oliveira/"><img width=5% height=5% loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/19733af4-2f3d-4eb2-9081-36165defea85"></a>
 </div>
 
-- Eu tenho 23 anos, moro em São Paulo e atualmente faço Ciência da Computação na FEI.
-- Me identifico mais com a parte de back-end, porém estou aberto a todo tipo de aprendizado, já que adoro aprender coisas novas e enfrentar grandes desafios.
-- Atualmente estou em busca de estágio para ganhar experiência na área e evoluir cada vez mais como programador e como pessoa.
-- Além da área de Ciência da Computação, também me interesso pela área financeira, mais especificamente por investimentos. Adoro ver vídeos sobre o assunto, ler sobre ele e botar em prática. Também gosto de jogos, animes, escutar diferentes tipos de música (mas com preferência por rock) e de esportes em geral.
+- Sou Iago, tenho 23 anos e moro em São Paulo. Atualmente, estou cursando Ciência da Computação na FEI, com uma forte identificação pela área de back-end, mas sempre aberto a novos aprendizados e desafios. Estou em busca de um estágio para adquirir experiência prática e continuar meu crescimento como programador e pessoa.
+- Além da tecnologia, tenho grande interesse pela área financeira, especialmente em investimentos, e gosto de estudar e aplicar meus conhecimentos nesse campo. Já atuei como monitor de Fundamentos de Algoritmos, auxiliando alunos com conceitos iniciais de programação, o que me proporcionou a oportunidade de desenvolver habilidades de comunicação e didática.
+- Sou ex-atleta de basquete, com participações em competições nacionais e internacionais, e um dos fundadores do Diretório Acadêmico de Ciência da Computação na FEI. Minhas experiências no esporte e na organização estudantil me ajudaram a trabalhar bem em equipe e a gerenciar responsabilidades em diferentes contextos.
+- Nos meus momentos livres, gosto de explorar jogos, assistir animes, ouvir música (principalmente rock) e praticar esportes. Estou sempre à procura de novas experiências e conhecimentos para expandir minhas habilidades.
 
 ## Experiências:
 
