@@ -6,8 +6,11 @@
 </div>
 
 - Sou Iago, tenho 23 anos e moro em São Paulo. Atualmente, estou cursando Ciência da Computação na FEI, com uma forte identificação pela área de back-end, mas sempre aberto a novos aprendizados e desafios. Estou em busca de um estágio para adquirir experiência prática e continuar meu crescimento como programador e pessoa.
+
 - Além da tecnologia, tenho grande interesse pela área financeira, especialmente em investimentos, e gosto de estudar e aplicar meus conhecimentos nesse campo. Já atuei como monitor de Fundamentos de Algoritmos, auxiliando alunos com conceitos iniciais de programação, o que me proporcionou a oportunidade de desenvolver habilidades de comunicação e didática.
+
 - Sou ex-atleta de basquete, com participações em competições nacionais e internacionais, e um dos fundadores do Diretório Acadêmico de Ciência da Computação na FEI. Minhas experiências no esporte e na organização estudantil me ajudaram a trabalhar bem em equipe e a gerenciar responsabilidades em diferentes contextos.
+
 - Nos meus momentos livres, gosto de explorar jogos, assistir animes, ouvir música (principalmente rock) e praticar esportes. Estou sempre à procura de novas experiências e conhecimentos para expandir minhas habilidades.
 
 ## Experiências:
