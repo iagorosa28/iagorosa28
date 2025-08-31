@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/iago-rosa-de-oliveira/"><img width=5% height=5% loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/19733af4-2f3d-4eb2-9081-36165defea85"></a>
 </div>
 
-Atualmente no 6º semestre de Ciência da Computação na FEI, estou estagiando na área de TI na Fator RH, onde atuo no controle de ativos, testes de software e reporte de erros. Essa experiência tem sido uma grande oportunidade para aprender e me desenvolver profissionalmente.
+Atualmente no 7º semestre de Ciência da Computação na FEI, estou estagiando na área de TI na Fator RH, onde atuo no controle de ativos, testes de software e reporte de erros. Essa experiência tem sido uma grande oportunidade para aprender e me desenvolver profissionalmente.
 
 Faço parte da chapa fundadora do Diretório Acadêmico de Ciência da Computação da FEI, contribuindo ativamente na organização e desenvolvimento de iniciativas acadêmicas. Além disso, atuei como monitor da disciplina de Fundamentos de Algoritmos, o que fortaleceu minhas habilidades de comunicação e didática.
 
