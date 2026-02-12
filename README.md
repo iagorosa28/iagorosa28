@@ -1,7 +1,5 @@
 # Iago Rosa de Oliveira
 
-# Iago Rosa de Oliveira
-
 <div align="center">
   <a href="mailto:iagoimportantthings@gmail.com">
     <img width="5%" height="5%" loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/1df10280-36e3-44c4-b504-83359b542ec2">
