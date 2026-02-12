@@ -1,9 +1,21 @@
 # Iago Rosa de Oliveira
 
+# Iago Rosa de Oliveira
+
 <div align="center">
-  <a href="mailto:iagoimportantthings@gmail.com"><img width=5% height=5% loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/1df10280-36e3-44c4-b504-83359b542ec2"></a>
-  <a href="https://www.linkedin.com/in/iago-rosa-de-oliveira/"><img width=5% height=5% loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/19733af4-2f3d-4eb2-9081-36165defea85"></a>
+  <a href="mailto:iagoimportantthings@gmail.com">
+    <img width="5%" height="5%" loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/1df10280-36e3-44c4-b504-83359b542ec2">
+  </a>
+  <a href="https://www.linkedin.com/in/iago-rosa-de-oliveira/">
+    <img width="5%" height="5%" loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/19733af4-2f3d-4eb2-9081-36165defea85">
+  </a>
+  <a href="https://gitlab.com/iagorosa28">
+    <img width="5%" height="5%" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+  </a>
 </div>
+
+<br/>
+
 
 Sou estudante do 8º semestre de Ciência da Computação no Centro Universitário FEI, com atuação voltada ao desenvolvimento de software e vivência prática em QA. Atualmente, atuo como estagiário na área de TI na Fator RH, participando de atividades relacionadas à qualidade de software e suporte a sistemas.
 
@@ -13,7 +25,7 @@ Ao longo da graduação e da experiência prática, tive contato com conceitos d
 
 Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnica, com foco em qualidade, organização e melhoria contínua das soluções.
 
----
+<br/>
 
 ## 🚀 Áreas de Atuação
 
@@ -23,7 +35,7 @@ Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnic
 - 📊 Estruturação e Análise de Dados
 - 📚 Engenharia de Software e Boas Práticas
 
----
+<br/>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -42,7 +54,7 @@ Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnic
 ### 🔧 Ferramentas & Gestão
 `Git` • `GitHub` • `GitLab` • `Jira` • `Xray` • `Taiga` • `Notion` • `Trello`
 
----
+<br/>
 
 ## 🎯 Objetivo Profissional
 
@@ -54,17 +66,10 @@ Busco oportunidades como:
 
 Com foco em ambientes que valorizem qualidade, aprendizado contínuo e melhoria contínua de processos.
 
----
+<br/>
 
 ## 🔥 Atividade
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iagorosa28&theme=tokyonight" />
 </div>
-
-<br/>
-
-## 🦊 GitLab
-
-[![GitLab](https://img.shields.io/badge/GitLab-Perfil-orange?logo=gitlab)](https://gitlab.com/iagorosa28)
-
