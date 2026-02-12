@@ -13,8 +13,6 @@ Ao longo da graduação e da experiência prática, tive contato com conceitos d
 
 Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnica, com foco em qualidade, organização e melhoria contínua das soluções.
 
----
-
 ## 🚀 Áreas de Atuação
 
 - 🧪 Quality Assurance (QA)
@@ -22,8 +20,6 @@ Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnic
 - 🌐 Desenvolvimento Web (Front-end e Back-end)
 - 📊 Estruturação e Análise de Dados
 - 📚 Engenharia de Software e Boas Práticas
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -42,8 +38,6 @@ Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnic
 ### 🔧 Ferramentas & Gestão
 `Git` • `GitHub` • `GitLab` • `Jira` • `Xray` • `Taiga` • `Notion` • `Trello`
 
----
-
 ## 🎯 Objetivo Profissional
 
 Busco oportunidades como:
@@ -53,8 +47,6 @@ Busco oportunidades como:
 - 🚀 Desenvolvedor Full Stack em formação
 
 Com foco em ambientes que valorizem qualidade, aprendizado contínuo e melhoria contínua de processos.
-
----
 
 ## 📊 Estatísticas
 
