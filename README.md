@@ -13,10 +13,52 @@ Ao longo da graduação e da experiência prática, tive contato com conceitos d
 
 Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnica, com foco em qualidade, organização e melhoria contínua das soluções.
 
-## Estatísticas:
+---
+
+## 🚀 Áreas de Atuação
+
+- 🧪 Quality Assurance (QA)
+- 🤖 Automação de Testes com Cypress
+- 🌐 Desenvolvimento Web (Front-end e Back-end)
+- 📊 Estruturação e Análise de Dados
+- 📚 Engenharia de Software e Boas Práticas
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+`JavaScript` • `Java` • `Python` • `C` • `C#` • `C++`
+
+### 🌐 Desenvolvimento Web
+`HTML` • `CSS` • `React` • `Next.js` • `Node.js` • `Express`
+
+### 🗄️ Banco de Dados
+`MongoDB` • `PostgreSQL` • `SQLite` • `Supabase` • `Firebase`
+
+### 🧪 Testes & Qualidade
+`Cypress` • `Testes Manuais` • `Testes Automatizados` • `Casos de Teste` • `Relatórios de Bugs` • `Testes de Regressão`
+
+### 🔧 Ferramentas & Gestão
+`Git` • `GitHub` • `GitLab` • `Jira` • `Xray` • `Taiga` • `Notion` • `Trello`
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades como:
+
+- 👨‍💻 Desenvolvedor Júnior (Front-end / Back-end)
+- 🧪 QA / Analista de Testes
+- 🚀 Desenvolvedor Full Stack em formação
+
+Com foco em ambientes que valorizem qualidade, aprendizado contínuo e melhoria contínua de processos.
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/iagorosa28">
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagorosa28&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=iagorosa28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagorosa28&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagorosa28&layout=compact&theme=tokyonight"/>
 </div>
