@@ -14,7 +14,6 @@
 
 <br/>
 
-
 Sou estudante do 8º semestre de Ciência da Computação no Centro Universitário FEI, com atuação voltada ao desenvolvimento de software e vivência prática em QA. Atualmente, atuo como estagiário na área de TI na Fator RH, participando de atividades relacionadas à qualidade de software e suporte a sistemas.
 
 No dia a dia, realizo testes manuais e automatizados, automação com Cypress, atendimento e análise de chamados, abertura e acompanhamento de tickets de erros e melhorias, além da organização de demandas e documentação técnica. Também atuo na categorização de informações e na manutenção de dashboards simples para apoio à análise e melhoria contínua dos sistemas.
