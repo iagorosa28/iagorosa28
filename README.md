@@ -56,9 +56,9 @@ Com foco em ambientes que valorizem qualidade, aprendizado contínuo e melhoria 
 
 ---
 
-## 📊 Estatísticas
+## 🔥 Sequência
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iagorosa28&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagorosa28&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=iagorosa28&theme=tokyonight" />
 </div>
+
