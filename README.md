@@ -13,8 +13,6 @@ Ao longo da graduação e da experiência prática, tive contato com conceitos d
 
 Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnica, com foco em qualidade, organização e melhoria contínua das soluções.
 
-
-
 ## 🚀 Áreas de Atuação
 
 - 🧪 Quality Assurance (QA)
