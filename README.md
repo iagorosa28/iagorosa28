@@ -59,6 +59,6 @@ Com foco em ambientes que valorizem qualidade, aprendizado contínuo e melhoria 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagorosa28&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagorosa28&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagorosa28&layout=compact&theme=tokyonight"/>
 </div>
