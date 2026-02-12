@@ -56,9 +56,15 @@ Com foco em ambientes que valorizem qualidade, aprendizado contínuo e melhoria 
 
 ---
 
-## 🔥 Sequência
+## 🔥 Atividade
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iagorosa28&theme=tokyonight" />
 </div>
+
+<br/>
+
+## 🦊 GitLab
+
+[![GitLab](https://img.shields.io/badge/GitLab-Perfil-orange?logo=gitlab)](https://gitlab.com/iagorosa28)
 
