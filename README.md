@@ -5,15 +5,13 @@
   <a href="https://www.linkedin.com/in/iago-rosa-de-oliveira/"><img width=5% height=5% loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/19733af4-2f3d-4eb2-9081-36165defea85"></a>
 </div>
 
-Atualmente no 7º semestre de Ciência da Computação na FEI, estou estagiando na área de TI na Fator RH, onde atuo no controle de ativos, testes de software e reporte de erros. Essa experiência tem sido uma grande oportunidade para aprender e me desenvolver profissionalmente.
+Sou estudante do 8º semestre de Ciência da Computação no Centro Universitário FEI, com atuação voltada ao desenvolvimento de software e vivência prática em QA. Atualmente, atuo como estagiário na área de TI na Fator RH, participando de atividades relacionadas à qualidade de software e suporte a sistemas.
 
-Faço parte da chapa fundadora do Diretório Acadêmico de Ciência da Computação da FEI, contribuindo ativamente na organização e desenvolvimento de iniciativas acadêmicas. Além disso, atuei como monitor da disciplina de Fundamentos de Algoritmos, o que fortaleceu minhas habilidades de comunicação e didática.
+No dia a dia, realizo testes manuais e automatizados, automação com Cypress, atendimento e análise de chamados, abertura e acompanhamento de tickets de erros e melhorias, além da organização de demandas e documentação técnica. Também atuo na categorização de informações e na manutenção de dashboards simples para apoio à análise e melhoria contínua dos sistemas.
 
-Ao longo da minha jornada acadêmica, tive contato com diversas linguagens de programação, incluindo Python, C, Java, JavaScript, C++, Assembly, CSS e HTML, além de frameworks e bibliotecas como React e SQL. Também possuo conhecimentos em bancos de dados relacionais, estrutura de dados, programação estruturada e orientada a objetos, análise e complexidade de algoritmos, além de linguagens formais e autômatos.
+Ao longo da graduação e da experiência prática, tive contato com conceitos de lógica de programação, estruturas de dados, programação orientada a objetos, bancos de dados e fundamentos de engenharia de software, além do uso de tecnologias como JavaScript, Java, Python e desenvolvimento web, entre outras.
 
-Por curiosidade, desenvolvi também conhecimentos no Pacote Office, incluindo Word, Excel e PowerPoint.
-
-No meu tempo livre, gosto de aprimorar meus conhecimentos por meio de cursos, projetos pessoais e leituras, buscando sempre evoluir e acompanhar as tendências da tecnologia.
+Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnica, com foco em qualidade, organização e melhoria contínua das soluções.
 
 ## Estatísticas:
 
