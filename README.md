@@ -16,22 +16,22 @@
 
 <br/>
 
-Sou estudante do 8º semestre de Ciência da Computação no Centro Universitário FEI, com atuação voltada ao desenvolvimento de software e vivência prática em QA. Atualmente, atuo como estagiário na área de TI na Fator RH, participando de atividades relacionadas à qualidade de software e suporte a sistemas.
+Sou estudante do 8º semestre de Ciência da Computação no Centro Universitário FEI, com experiência prática em QA e uma trajetória em construção voltada à tecnologia de forma ampla, com interesse em desenvolvimento de software e análise de dados.
 
-No dia a dia, realizo testes manuais e automatizados, automação com Cypress, atendimento e análise de chamados, abertura e acompanhamento de tickets de erros e melhorias, além da organização de demandas e documentação técnica. Também atuo na categorização de informações e na manutenção de dashboards simples para apoio à análise e melhoria contínua dos sistemas.
+Minha vivência inclui testes manuais e automatizados, automação com Cypress, análise de chamados, abertura e acompanhamento de tickets de erros e melhorias, além de organização de demandas e documentação técnica. Também atuei com categorização de informações e apoio à manutenção de dashboards simples, o que ampliou minha visão sobre qualidade, operação e análise de sistemas.
 
-Ao longo da graduação e da experiência prática, tive contato com conceitos de lógica de programação, estruturas de dados, programação orientada a objetos, bancos de dados e fundamentos de engenharia de software, além do uso de tecnologias como JavaScript, Java, Python e desenvolvimento web, entre outras.
+Ao longo da graduação, construí uma base em lógica de programação, estruturas de dados, orientação a objetos, bancos de dados e engenharia de software, complementada pelo contato com tecnologias como JavaScript, Java, Python e desenvolvimento web.
 
-Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnica, com foco em qualidade, organização e melhoria contínua das soluções.
+Busco continuar evoluindo tecnicamente por meio de estudos, cursos e projetos, explorando diferentes possibilidades dentro da área de tecnologia e me desenvolvendo para atuar cada vez mais na construção, melhoria e análise de soluções.
 
 <br/>
 
-## 🚀 Áreas de Atuação
+## 🚀 Áreas de Interesse e Atuação
 
 - 🧪 Quality Assurance (QA)
-- 🤖 Automação de Testes com Cypress
-- 🌐 Desenvolvimento Web (Front-end e Back-end)
-- 📊 Estruturação e Análise de Dados
+- 🤖 Automação de Testes
+- 🌐 Desenvolvimento de Software
+- 📊 Análise de Dados
 - 📚 Engenharia de Software e Boas Práticas
 
 <br/>
@@ -41,7 +41,7 @@ Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnic
 ### 💻 Linguagens
 `JavaScript` • `Java` • `Python` • `C` • `C#` • `C++`
 
-### 🌐 Desenvolvimento Web
+### 🌐 Desenvolvimento
 `HTML` • `CSS` • `React` • `Next.js` • `Node.js` • `Express`
 
 ### 🗄️ Banco de Dados
@@ -50,20 +50,20 @@ Sigo ampliando meus conhecimentos por meio de estudos, cursos e prática técnic
 ### 🧪 Testes & Qualidade
 `Cypress` • `Testes Manuais` • `Testes Automatizados` • `Casos de Teste` • `Relatórios de Bugs` • `Testes de Regressão`
 
-### 🔧 Ferramentas & Gestão
+### 🔧 Ferramentas & Organização
 `Git` • `GitHub` • `GitLab` • `Jira` • `Xray` • `Taiga` • `Notion` • `Trello`
 
 <br/>
 
 ## 🎯 Objetivo Profissional
 
-Busco oportunidades como:
+Busco oportunidades para desenvolver minha carreira em tecnologia, com interesse especial em:
 
-- 👨‍💻 Desenvolvedor Júnior (Front-end / Back-end)
-- 🧪 QA / Analista de Testes
-- 🚀 Desenvolvedor Full Stack em formação
+- 👨‍💻 Desenvolvimento de Software
+- 📊 Análise de Dados
+- 🧪 Quality Assurance e Automação de Testes
 
-Com foco em ambientes que valorizem qualidade, aprendizado contínuo e melhoria contínua de processos.
+Tenho interesse em ambientes que valorizem aprendizado contínuo, colaboração, qualidade e evolução constante das soluções e dos processos.
 
 <br/>
 
