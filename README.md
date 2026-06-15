@@ -6,14 +6,11 @@
   <a href="https://www.iagorosa.com">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-iagorosa.com-00A86B?style=for-the-badge" alt="Portfólio">
   </a>
-  <a href="mailto:iagoimportantthings@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
   <a href="https://www.linkedin.com/in/iago-rosa-de-oliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-Iago%20Rosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://gitlab.com/iagorosa28">
-    <img src="https://img.shields.io/badge/GitLab-iagorosa28-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  <a href="mailto:iagoimportantthings@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
