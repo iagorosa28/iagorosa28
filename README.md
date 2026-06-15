@@ -82,3 +82,7 @@ Além das tecnologias e ferramentas listadas, também tive contato com outras te
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagorosa28&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </div>
+
+<br/>
+
+[![GitLab](https://img.shields.io/badge/GitLab-iagorosa28-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/iagorosa28)
