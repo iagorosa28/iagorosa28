@@ -3,72 +3,91 @@
 <br/>
 
 <div align="center">
+  <a href="https://www.iagorosa.com">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-iagorosa.com-00A86B?style=for-the-badge" alt="Portfólio">
+  </a>
   <a href="mailto:iagoimportantthings@gmail.com">
-    <img width="5%" height="5%" loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/1df10280-36e3-44c4-b504-83359b542ec2">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/iago-rosa-de-oliveira/">
-    <img width="5%" height="5%" loading="lazy" src="https://github.com/iagorosa28/iagorosa28/assets/125699322/19733af4-2f3d-4eb2-9081-36165defea85">
+    <img src="https://img.shields.io/badge/LinkedIn-Iago%20Rosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://gitlab.com/iagorosa28">
-    <img width="5%" height="5%" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+    <img src="https://img.shields.io/badge/GitLab-iagorosa28-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   </a>
 </div>
 
 <br/>
 
-Sou estudante do 8º semestre de Ciência da Computação no Centro Universitário FEI, com experiência prática em QA e uma trajetória em construção voltada à tecnologia de forma ampla, com interesse em desenvolvimento de software e análise de dados.
+## 👋 Sobre mim
 
-Minha vivência inclui testes manuais e automatizados, automação com Cypress, análise de chamados, abertura e acompanhamento de tickets de erros e melhorias, além de organização de demandas e documentação técnica. Também atuei com categorização de informações e apoio à manutenção de dashboards simples, o que ampliou minha visão sobre qualidade, operação e análise de sistemas.
+Sou formado em Ciência da Computação pelo Centro Universitário FEI, com experiência profissional em QA e suporte, além de experiência em projetos acadêmicos envolvendo diferentes frentes da tecnologia, como desenvolvimento front-end, back-end, qualidade de software, segurança da informação, UI/UX e engenharia de software.
 
-Ao longo da graduação, construí uma base em lógica de programação, estruturas de dados, orientação a objetos, bancos de dados e engenharia de software, complementada pelo contato com tecnologias como JavaScript, Java, Python e desenvolvimento web.
+Tenho interesse em desenvolvimento de software, segurança da informação, qualidade de produto e análise de dados. Gosto de aprender, organizar ideias e transformar problemas em soluções úteis, unindo curiosidade, responsabilidade, atenção aos detalhes e evolução constante.
 
-Busco continuar evoluindo tecnicamente por meio de estudos, cursos e projetos, explorando diferentes possibilidades dentro da área de tecnologia e me desenvolvendo para atuar cada vez mais na construção, melhoria e análise de soluções.
+Atualmente estou organizando meus projetos, estudos e presença profissional em tecnologia. Para conhecer melhor minha trajetória, experiências e projetos principais, acesse meu portfólio pessoal:
 
-<br/>
-
-## 🚀 Áreas de Interesse e Atuação
-
-- 🧪 Quality Assurance (QA)
-- 🤖 Automação de Testes
-- 🌐 Desenvolvimento de Software
-- 📊 Análise de Dados
-- 📚 Engenharia de Software e Boas Práticas
+🌐 **[www.iagorosa.com](https://www.iagorosa.com)**
 
 <br/>
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Áreas de interesse
 
-### 💻 Linguagens
+* 👨‍💻 Desenvolvimento de software
+* 🔐 Segurança da informação
+* 🧪 Quality Assurance e testes de software
+* 📊 Análise de dados
+* 📚 Engenharia de software e boas práticas
+* 🎨 Qualidade de produto, experiência do usuário e melhoria contínua
+
+<br/>
+
+## 🛠️ Tecnologias e ferramentas
+
+### Experiência de uso
+
+<div align="left">
+
 `JavaScript` • `Java` • `Python` • `C` • `C#` • `C++`
 
-### 🌐 Desenvolvimento
 `HTML` • `CSS` • `React` • `Next.js` • `Node.js` • `Express`
 
-### 🗄️ Banco de Dados
 `MongoDB` • `PostgreSQL` • `SQLite` • `Supabase` • `Firebase`
 
-### 🧪 Testes & Qualidade
-`Cypress` • `Testes Manuais` • `Testes Automatizados` • `Casos de Teste` • `Relatórios de Bugs` • `Testes de Regressão`
+`Cypress` • `Testes manuais` • `Testes automatizados` • `Casos de teste` • `Relatórios de bugs`
 
-### 🔧 Ferramentas & Organização
 `Git` • `GitHub` • `GitLab` • `Jira` • `Xray` • `Taiga` • `Notion` • `Trello`
+
+</div>
 
 <br/>
 
-## 🎯 Objetivo Profissional
+Além das tecnologias e ferramentas listadas, também tive contato com outras tecnologias, ferramentas e práticas ao longo da graduação, projetos acadêmicos, estudos e experiências práticas.
 
-Busco oportunidades para desenvolver minha carreira em tecnologia, com interesse especial em:
+<br/>
 
-- 👨‍💻 Desenvolvimento de Software
-- 📊 Análise de Dados
-- 🧪 Quality Assurance e Automação de Testes
+## 🎯 Momento atual
 
-Tenho interesse em ambientes que valorizem aprendizado contínuo, colaboração, qualidade e evolução constante das soluções e dos processos.
+* Atualizando e organizando meus projetos públicos.
+* Evoluindo meus estudos em desenvolvimento de software, segurança da informação, QA e dados.
+* Construindo uma presença profissional mais centralizada por meio do meu portfólio, LinkedIn e GitHub.
 
 <br/>
 
 ## 🔥 Atividade
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iagorosa28&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=iagorosa28&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagorosa28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagorosa28&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </div>
