@@ -80,11 +80,5 @@ Além das tecnologias e ferramentas listadas, também tive contato com outras te
 <br/>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iagorosa28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</div>
-
-<br/>
-
-<div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagorosa28&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </div>
